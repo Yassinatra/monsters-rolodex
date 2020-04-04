@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Yassinatra/monsters-rolodex/static/css/main.f9ae5d89.chunk.css",
-    "main.js": "/Yassinatra/monsters-rolodex/static/js/main.0f30e7c5.chunk.js",
-    "main.js.map": "/Yassinatra/monsters-rolodex/static/js/main.0f30e7c5.chunk.js.map",
-    "runtime-main.js": "/Yassinatra/monsters-rolodex/static/js/runtime-main.9dea441d.js",
-    "runtime-main.js.map": "/Yassinatra/monsters-rolodex/static/js/runtime-main.9dea441d.js.map",
-    "static/js/2.7aaef059.chunk.js": "/Yassinatra/monsters-rolodex/static/js/2.7aaef059.chunk.js",
-    "static/js/2.7aaef059.chunk.js.map": "/Yassinatra/monsters-rolodex/static/js/2.7aaef059.chunk.js.map",
-    "index.html": "/Yassinatra/monsters-rolodex/index.html",
-    "precache-manifest.3430ae76c0aae4de883fa4e53620b9b6.js": "/Yassinatra/monsters-rolodex/precache-manifest.3430ae76c0aae4de883fa4e53620b9b6.js",
-    "service-worker.js": "/Yassinatra/monsters-rolodex/service-worker.js",
-    "static/css/main.f9ae5d89.chunk.css.map": "/Yassinatra/monsters-rolodex/static/css/main.f9ae5d89.chunk.css.map",
-    "static/js/2.7aaef059.chunk.js.LICENSE.txt": "/Yassinatra/monsters-rolodex/static/js/2.7aaef059.chunk.js.LICENSE.txt"
+    "main.css": "/yassinatra/monsters-rolodex/static/css/main.f9ae5d89.chunk.css",
+    "main.js": "/yassinatra/monsters-rolodex/static/js/main.affa95c6.chunk.js",
+    "main.js.map": "/yassinatra/monsters-rolodex/static/js/main.affa95c6.chunk.js.map",
+    "runtime-main.js": "/yassinatra/monsters-rolodex/static/js/runtime-main.59ea15df.js",
+    "runtime-main.js.map": "/yassinatra/monsters-rolodex/static/js/runtime-main.59ea15df.js.map",
+    "static/js/2.7aaef059.chunk.js": "/yassinatra/monsters-rolodex/static/js/2.7aaef059.chunk.js",
+    "static/js/2.7aaef059.chunk.js.map": "/yassinatra/monsters-rolodex/static/js/2.7aaef059.chunk.js.map",
+    "index.html": "/yassinatra/monsters-rolodex/index.html",
+    "precache-manifest.f1fcac3833096b453a07e09d1826a3e2.js": "/yassinatra/monsters-rolodex/precache-manifest.f1fcac3833096b453a07e09d1826a3e2.js",
+    "service-worker.js": "/yassinatra/monsters-rolodex/service-worker.js",
+    "static/css/main.f9ae5d89.chunk.css.map": "/yassinatra/monsters-rolodex/static/css/main.f9ae5d89.chunk.css.map",
+    "static/js/2.7aaef059.chunk.js.LICENSE.txt": "/yassinatra/monsters-rolodex/static/js/2.7aaef059.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9dea441d.js",
+    "static/js/runtime-main.59ea15df.js",
     "static/js/2.7aaef059.chunk.js",
     "static/css/main.f9ae5d89.chunk.css",
-    "static/js/main.0f30e7c5.chunk.js"
+    "static/js/main.affa95c6.chunk.js"
   ]
 }
